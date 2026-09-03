@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmptyButton" Collapsed="true">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainScene\EmptyButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainSceneManager" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainScene\MainSceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardData">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAggAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MiniGameScene\CardData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardSlot" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAASAAAQAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\MiniGameScene\CardSlot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MiniGameManager" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAKCBAgAAAAAiAECAAAABAAIAAAAAAAAQAAFA=</HashCode>
+      <FileName>Assets\Scripts\MiniGameScene\MiniGameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoryCard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAEAAAAAAAAAIAAAABAEAACAAAAACAAAAAAAAgAAEA=</HashCode>
+      <FileName>Assets\Scripts\MiniGameScene\StoryCard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GameDataReceiver" Collapsed="true">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAEAAAAABAAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\StageScene\GameDataReceiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PosterUI" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAABAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\StageScene\PosterUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScrollViewManager">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAACAAAAAAAAACAIAAAAAgAAAQAAAAAAAABAEA=</HashCode>
+      <FileName>Assets\Scripts\StageScene\ScrollViewManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StageData">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACgEAAAEAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\StageScene\StageData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StageSceneManager" Collapsed="true">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\StageScene\StageSceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StageUIManager" Collapsed="true">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAIAiAAAAAAAAAAAgAAAABAAAAgAAAAAECAAEA=</HashCode>
+      <FileName>Assets\Scripts\StageScene\StageUIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

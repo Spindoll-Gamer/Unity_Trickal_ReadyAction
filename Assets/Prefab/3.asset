@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d8fd862b465faf4aba37514e43975c5, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: Assembly-CSharp::StageInfo
+  stagePosterSprite: {fileID: -8598463625847592958, guid: 43957ec645e16394ca0525b84783509c, type: 3}
+  stageTitleSprite: {fileID: -8598463625847592958, guid: 43957ec645e16394ca0525b84783509c, type: 3}
+  text: "\uCC38\uAD50\uC721 \uC7AC\uBBF8\uC5C6\uC5C9"
+  cardSprite:
+  - {fileID: -8598463625847592958, guid: 43957ec645e16394ca0525b84783509c, type: 3}
+  - {fileID: 4091120860735894465, guid: b3deaa1b97532b64d9458b8862dfd3fc, type: 3}
+  - {fileID: -2661186729997780253, guid: 4bf10983cc186a74b968b7070651a340, type: 3}
+  - {fileID: -6961207108443007631, guid: 8396b63792a11304b9da0b4058b9a849, type: 3}
+  - {fileID: 8583370395325059029, guid: c15903b46446d0a4293e5fbcef037076, type: 3}
+  - {fileID: -6105877034511786884, guid: c7d0d9166cd0af748a89e9741193c646, type: 3}
+  timerTime: 30
