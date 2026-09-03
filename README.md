@@ -17,6 +17,7 @@
 ## 🎬 2. 주요 기능 및 플레이 시연
 
 <img width="600" height="332" alt="Image" src="https://github.com/user-attachments/assets/c5fe50a1-30f5-48c3-8745-4e946a6b1c48" />
+<img width="800" height="447" alt="Image" src="https://github.com/user-attachments/assets/557e33b4-6ce6-45b9-a7ac-e9134b1997df" />
 
 ---
 
